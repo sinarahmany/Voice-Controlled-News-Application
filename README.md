@@ -1,5 +1,5 @@
 # Voice Controlled News Application Using React
-<a href="https://voice-controlled-news.herokuapp.com/" target="#">Demo</a>
+<a href="https://voice-controlled-news.herokuapp.com/" target="blank">Demo</a>
 ## Introduction
 This app can show you the latest news from your preferred source or show news about a specific topic and also have the ability to read the topics. Other than that you can ask general questions like "How are you?" and the assistant will answer!
 
